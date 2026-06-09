@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acc_desc">주문 완료 후 자동으로 \'뒤로가기\'를 눌러 공유창을 닫습니다. 화면 내용을 수집하거나 저장하지 않습니다.</string>
+</resources>
